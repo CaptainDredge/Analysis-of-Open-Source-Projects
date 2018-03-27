@@ -1,0 +1,3 @@
+In order to run the [notebook](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/Microtask-2/Microtask-2.ipynb), download it and replace `org_name` with the name of organisation whose repositories you want to analyze and Run the script to get the desired result.
+
+Note: To bypass the rate limit of Github API generate your [github token](https://blog.github.com/2013-05-16-personal-api-tokens/)

@@ -1,0 +1,1 @@
+In order to run the [notebook](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/Microtask-1/Microtask-1.ipynb), download it and replace `repository_url` with the url of the git repo you want to analyse, replace `raw_index_name` and `enriched_index_name` with your desired index names and run the script to get the desired result.
