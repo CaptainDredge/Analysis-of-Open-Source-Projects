@@ -15,10 +15,10 @@
 ### Microtask 1:
 Produce a listing of the number of new committers per month, and the number of commits for each of them, as a table and as a CSV file. Use the GrimoireLab enriched index for git.
 
-**New Committers per month**
+#### New Committers per month
 ![Committers table](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/NewCommitters.png)
 
-**Number of commits**
+#### Number of commits
 ![Number of commits](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/NumberOfCommit.png)
 
 ### Microtask 2:
