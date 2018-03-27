@@ -36,7 +36,7 @@ In order to run the notebook, download it and replace url with the url of the gi
 ### Microtask 4:
 Perform any other analysis you may find interesting, based on GrimoireLab enriched indexes for git and GitHub repositories.
 I've implemented a basic fork metric to show how github api can be used to support metric that are not yet supported by grimoirelab.
-**Number of Forks**
+#### Number of Forks*
 ![Forks](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/NumberOfForks.png)
 ### Microtask 5:
 Produce a pull request for any of the GrimoireLab tools, and try to follow instructions until it gets accepted. Try do do something simple that you consider useful, not necessarily fix to the code: improvement of comments, documentation or testing will usually be easier to get accepted, and very useful for the project. Please, avoid just producing a random pull request just to have another microtask: the objective is not that you get one more microtask done, but that you understand how to interact with developers in the project contributing with something that could be useful).
