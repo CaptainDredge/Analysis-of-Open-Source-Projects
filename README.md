@@ -25,16 +25,15 @@ Produce a listing of the number of new committers per month, and the number of c
 Produce a chart showing the distribution of time-to-close (using the corresponding field in the GrimoireLab enriched index for GitHub issues) for issues already closed, and opened during the last six months.
 ![plot](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/Microtask2.png)
 
-In order to run the notebook, download it and replace repo_name and org_name with the repository and organisation name of the github repo you want to analyse, replace raw_index and enriched_index with your desired index names and run the script to get the desired result. Also use github verification token to avoid problems regarding unauthenticated access and to bypass the rate limit GitHub API.
 
 ### Microtask 3:
 Produce a listing of repositories, as a table and as CSV file, with the number of commits authored, issues opened, and pull requests opened, during the last three months, ordered by the total number (commits plus issues plus pull requests).
 ![Popular repo plot](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/Repo_Total.png)
 
-In order to run the notebook, download it and replace url with the url of the github organisation whose repositories you want to analyse, replace raw_index and enriched_index with your desired index names and run the script to get the desired result.
 
 ### Microtask 4:
 Perform any other analysis you may find interesting, based on GrimoireLab enriched indexes for git and GitHub repositories.
+
 I've implemented a basic fork metric to show how github api can be used to support metric that are not yet supported by grimoirelab.
 #### Number of Forks
 ![Forks](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/NumberOfForks.png)
