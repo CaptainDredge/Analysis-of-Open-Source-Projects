@@ -45,3 +45,4 @@ For this microtask, I produced 3 pull requests:
 [Pull request 1](https://github.com/chaoss/grimoirelab-manuscripts/pull/33)
 [Pull request 2](https://github.com/chaoss/grimoirelab-manuscripts/pull/35)
 [Pull request 3](https://github.com/chaoss/grimoirelab-tutorial/pull/16)
+[Pull request 4](https://github.com/chaoss/grimoirelab-elk/pull/289)
