@@ -42,6 +42,7 @@ I've implemented a basic fork metric to show how github api can be used to suppo
 Produce a pull request for any of the GrimoireLab tools, and try to follow instructions until it gets accepted. Try do do something simple that you consider useful, not necessarily fix to the code: improvement of comments, documentation or testing will usually be easier to get accepted, and very useful for the project. Please, avoid just producing a random pull request just to have another microtask: the objective is not that you get one more microtask done, but that you understand how to interact with developers in the project contributing with something that could be useful).
 
 For this microtask, I produced 3 pull requests:
+
 Pull request1 : In this pull request I added the support for Default name in report produced by manuscripts.
 
 [Pull request 1](https://github.com/chaoss/grimoirelab-manuscripts/pull/33)
