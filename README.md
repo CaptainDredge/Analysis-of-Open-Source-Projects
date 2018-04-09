@@ -58,3 +58,7 @@ Pull request3: In this pull request I fixed a broken link in grimoirelab tutoria
 Pull request4: In this pull request I added the support for Co-author commits in Github to grimoirelab-elk
 
 [Pull request 4](https://github.com/chaoss/grimoirelab-elk/pull/289)
+
+Pull request5: In this pull request minor changes in Perceval gerrit backend is done
+
+[Pull request 5](https://github.com/chaoss/grimoirelab-perceval/pull/374)
