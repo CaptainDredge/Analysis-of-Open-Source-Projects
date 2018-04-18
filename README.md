@@ -1,7 +1,7 @@
 # CHAOSS
 ![CHAOSS](https://github.com/Prabhat-IIT/CHAOSS-Microtasks/blob/master/GraphsAndTables/Chaoss_Logo.png)
 
-# Microtask Submission.
+# Microtasks
 
 ## Requirements:
 
